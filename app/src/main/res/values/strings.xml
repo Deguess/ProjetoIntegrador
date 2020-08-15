@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProjetoIntegrador</string>
+    <string name="txtNome">Nome:</string>
+    <string name="edtNome" />
+    <string name="txtValor">Valor:</string>
+    <string name="edtValor" />
+    <string name="btnCadastrar">Cadastrar conta</string>
+    <string name="txtTipo" />
+    <string name="txtNome1" />
+    <string name="txtValor1" />
+    <string name="txtID" />
+    <string name="btnAlterar">Alterar</string>
+    <string name="edtTipo" />
+    <string name="txtID1">"ID de conta: "</string>
+    <string name="edtID" />
+    <string name="btnCadastro">Cadastrar nova conta</string>
+    <string name="txtRT">Este é o seu relatório com o valor total do mês</string>
+    <string name="txtValor2" />
+    <string name="txtData1">texto4</string>
+    <string name="edtData" />
+    <string name="btnGerar">Gerar relatório</string>
+    <string name="txtEscolha">Escolha o mês que gostaria de gerar o relatório</string>
+    <string name="edtEscolha" />
+    <string name="btnGerar1">Gerar</string>
+    <string name="edtEscolha2" />
+</resources>
